@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * bubble_sort - A insertion sort function
+ * insertion_sort_list - A insertion sort function
  * @list: The list to sort
  */
 void insertion_sort_list(listint_t **list)
